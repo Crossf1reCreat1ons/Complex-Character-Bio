@@ -1,0 +1,632 @@
+<!DOCTYPE html>
+<html>
+<body>
+    <!--Hello there, it's Crossfire/Gloves! Thanks for taking the time to edit this code (I know it's a lot to take in, but still ^^). This is somewhat of a remake to the one I made over a year ago (I added in more details and made the layout look cleaner). This is best viewed on desktop (some elements may look askew on mobile). Make sure you have WYSIWYG turned off before editing the code!-->
+    <!--You can change the colors of the background, text, and buttons to whatever you want, as well as the text font (they all use six digit hex codes). If you want to change them, I will put them below (just double click, press Ctrl + F, then click the + sign, type in a new hex code, then click "All" that's next to "Replace" and it will replace the previous hex code)-->
+    
+    <!--Background: #000000
+        Text: #ffffff
+        Font: courier new
+        Buttons: #7F7F7F
+        -->
+        <!--Of course, you can give them different colors if you'd like (The world is your oyster in the world of HTML coding) ^^-->
+    
+<!--You can replace these with images and resize them to however you like-->
+<div style="text-align:center;">
+    <span style="font-size:3rem; font-family:courier new;"><i class="fa-solid fa-sun"></i> NAME <i class="fa-solid fa-sun"></i>
+    <h3>Pronouns go here</h3>
+    </span>
+</div>
+<!--You can add more colors to the gradient or replace them with a picture-->
+<div class="container rounded p-3" style="max-width:1000px; background:linear-gradient(#094f85,#88d6f5);">
+<div style="background-color: #000000; overflow:auto;">
+
+<!--The big image plus the bio (also yes I made the placeholder text the Bee Movie script and yes I had to handtype all of that in TwT)-->
+<div style="float: right; width:420px; overflow:auto; padding-top:10px; padding-left:10px;">
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/102285154_0Vd0JQ6i99Yjk0R.png" style="max-height:400px;">
+</div>
+
+<div style="float: center; overflow:auto; padding-top:10px; padding-left:10px; padding-bottom:10px;">
+<div style="text-align:center;color:#ffffff;overflow:auto;">
+<div class="card-transparent" style="height:400px; overflow: auto;">
+<div style="font-family:courier new;">
+<p style="font-size:20px">
+<h1><i class="fa-solid fa-star"></i> TITLE/QUOTE <i class="fa-solid fa-star"></i></h1>
+<p>According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible. Yellow, Black, Yellow, Black, Yellow, Black, Yellow, Black. Ooh! Black and Yellow! Let's shake things up a little!</p>
+<p>Barry! Breakfast is ready! Coming! Hang on a second. Hello? Barry? Adam? Can you believe this is happening? I can't. I'll pick you up. Looking sharp. Use the stairs. Your father paid good money for those. Sorry. I'm excited. Here's the graduate. We're very proud of you, son. A perfect report card, all B's. Very proud. Ma! I got a thing going here. You got lint on your fuzz. Ow! That's me! Wave to us! We'll be in row 118,000. Bye! Barry, I told you, stop flying in the house!</p>
+<p>Hey, Adam. Hey Barry. Is that fuzz gel? A little. Special day, graduation. Never thought I'd make it. Three days grade school. Three days high school. Those were awkward. Three days college. I'm glad I took a day and hitchhiked around the hive. You did come back different. Hi, Barry. Artie, growing a mustache? Looks good. Hear about Frankie? Yeah. You going to the funeral? No, I'm not going. Everybody knows, sting someone, you die. Don't waste it on a squirrel. Such a hothead.</p>
+
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<br>
+<div style="font-family:courier new;">
+<ul class="nav nav-tabs card-header-tabs row mb-1">
+  <li class="col-md-4 mb-1"><a class="btn bg-faded btn-block" data-toggle="tab" style="background-color:#7F7F7F; color:#ffffff; border-color:#7F7F7F;" href="#reg1"><i class="fa-solid fa-user"></i> Identity</a></li>
+  <li class="col-md-4 mb-1"><a class="btn bg-faded btn-block" data-toggle="tab" style="background-color:#7F7F7F; color:#ffffff; border-color:#7F7F7F;" href="#reg2"><i class="fa-solid fa-comment"></i> Personality</a></li>  
+  <li class="col-md-4 mb-1"><a class="btn bg-faded btn-block" data-toggle="tab" style="background-color:#7F7F7F; color:#ffffff; border-color:#7F7F7F;" href="#reg3"><i class="fa-solid fa-people-arrows"></i> Relationships</a></li>
+  <li class="col-md-4 mb-1"><a class="btn bg-faded btn-block" data-toggle="tab" style="background-color:#7F7F7F; color:#ffffff; border-color:#7F7F7F;" href="#reg4"><i class="fa-solid fa-book"></i> Backstory</a></li>
+  <li class="col-md-4 mb-1"><a class="btn bg-faded btn-block" data-toggle="tab" style="background-color:#7F7F7F; color:#ffffff; border-color:#7F7F7F;" href="#reg5"><i class="fa-solid fa-fire"></i> Abilities & Tactics</a></li>  
+  <li class="col-md-4 mb-1"><a class="btn bg-faded btn-block" data-toggle="tab" style="background-color:#7F7F7F; color:#ffffff; border-color:#7F7F7F;" href="#reg6"><i class="fa-solid fa-list-check"></i> Rules & Notes</a></li>
+  <li class="col-md-4 mb-1"><a class="btn bg-faded btn-block" data-toggle="tab" style="background-color:#7F7F7F; color:#ffffff; border-color:#7F7F7F;" href="#reg7"><i class="fa-solid fa-icons"></i> Image Collection</a></li>
+  <li class="col-md-4 mb-1"><a class="btn bg-faded btn-block" data-toggle="tab" style="background-color:#7F7F7F; color:#ffffff; border-color:#7F7F7F;" href="#reg8"><i class="fa-solid fa-gift"></i> Miscellaneous</a></li>
+  <li class="col-md-4 mb-1"><a class="btn bg-faded btn-block" data-toggle="tab" style="background-color:#7F7F7F; color:#ffffff; border-color:#7F7F7F;" href="#reg9"><i class="fa-solid fa-star"></i> Credits</a></li>
+</ul>
+</div>
+
+<div style="font-family:courier new;">
+<div class="tab-content">
+    
+    <!--IDENTITY-->
+    
+  <div class="tab-pane fade" id="reg1">
+    <div class="card p-3" style="background-color:#000000;">
+      <div class="p-3">
+          
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Identity <i class="fa-solid fa-planet-ringed"></i></span></h1>
+          <table style="width: 100%;">
+        <tbody>
+      <tr><td><p dir="ltr"><strong>Full Name</strong></p></td><td><p dir="ltr">name</p></td><td><p dir="ltr"><strong>Height</strong></p></td><td><p dir="ltr">height</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Age</strong></p></td><td><p dir="ltr">age</p></td>
+      <td><p dir="ltr"><strong>Weight</strong></p></td><td><p dir="ltr">weight</p></td></tr>
+      <tr><td><p dir="ltr"><strong>Species</strong></p></td><td><p dir="ltr">species</p></td>
+      <td><p dir="ltr"><strong>Region Elements</strong></p></td><td><p dir="ltr"><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="100"></a></p></td></tr>
+      <tr><td><p dir="ltr"><strong>Nationality</strong></p></td><td><p dir="ltr">nationality</p></td>
+      <td><p dir="ltr"><strong>Magic Elements</strong></p></td><td><p dir="ltr"><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="100"></a> <a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="100"></a></p></td>
+      <tr><td><p dir="ltr"><strong>Birthday</strong></p></td><td><p dir="ltr">birthday</p></td>
+      <td><p dir="ltr"><strong>Theme Song</strong></p></td><td><a href="LinkGoesHere">music</a></td></tr>
+      <tr><td><p dir="ltr"><strong>Affiliation</strong></p></td><td><p dir="ltr">affiliation</p></td>
+      <td><p dir="ltr"><strong>Voice Claim</strong></p></td><td><a href="LinkGoesHere">voice</a></td></tr>
+      </tbody></table>
+    <br>
+    <div class="d-flex justify-content-center">
+    <div class="p-2">
+    <div class="row no-gutters w-100">
+<div class="card-transparent table-responsive rounded-top border-bottom-0" style=";border-bottom-left-radius:0;border-bottom-right-radius:0;">
+    <div class="px-3 " style="text-align:center;">
+        
+<div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;">
+<h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Labels <i class="fa-solid fa-stars"></i></span></h1>
+
+<!--P.S. You can add links to more information about a label. You can also use whatever resources you-->
+
+<br>
+<h3>Gender</h3>
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/99064355_nqSHwt5ZwsSKfJG.png" title="Non-Binary" width="100px"> 
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/99064225_5ZFXAJ1tQndCtyC.png" title="Transgender" width="100px">
+<h3>Orientation</h3> 
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/99064302_ziWUwqz7zAOppdO.png" title="Pansexual" width="100px">
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/99064271_otUfZ9nxTxl2WSu.png" title="Aromantic" width="100px">
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/99166347_K8AvCGdIDo2kZT0.png" title="Demisexual" width="100px">
+<h3>Conditions/Disabilities</h3> 
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/99209821_T7aG0UFUqk5VCwS.png" title="Disability Pride" width="100px">
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/102141835_tpwWOoH9GjQrkMw.png" title="Autistic" width="100px">
+<h3>Misc.</h3> 
+<img src="https://f2.toyhou.se/file/f2-toyhou-se/images/99086191_UjUceheuS1BllqC.png" title="Polyamorous" width="100px">
+<br><br>
+
+
+        <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Extra Information <i class="fa-solid fa-stars"></i></span>
+        <br>
+            <!--You can add backstory to this, like previous labels used, how they experience their gender/orientation, potential surgeries, and the like-->
+            
+            <div class="card-transparent" style="height:150px; overflow: auto;">
+            <p>I guess he could have just gotten it out of the way. I love this incorporating an amusement park into our dayl That's why we don't need vacations. Boy, quite a bit of pomp... under the circumstances. Well, Adam, today we are men. We are! Bee-men. Amen! Hallelujah! Students, faculty, distinguished bees, please welcome Dean Buzzwell.</p>
+            <p>Welcome, New Hive City graduating class of... 9:15. That concludes our ceremonies... and begins your career at Honex Industries! Will we pick our job today? I heard it's just orientation. Heads up! Here we go. Keep your hands and antennas inside the tram at all times. Wonder what it'll be like? A little scary.</p>
+            <p>Welcome to Honex, a division of Honesco and a part of the Hexagon Group. This is it! Wow. Wow. We know that you, as a bee, have worked your whole life to the point where you can work for your whole life. Honey begins when your valiant Pollen Jocks bring the nectar to the hive. Our top secret formula is automatically color-corrected, scent adjusted and bubble contoured into this soothing sweet syrup with its distinctive golden glow you know as... Honey!</p>
+            </div>
+        </div>
+        </div>
+</div>
+</div>
+</div>
+</div>
+</div>
+      
+      </div>
+    </div>
+  </div>
+    
+    <!--PERSONALITY-->
+    
+  <div class="tab-pane fade" id="reg2">
+    <div class="card p-3" style="background-color:#000000;">
+      <div class="p-3">
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Personality <i class="fa-solid fa-planet-ringed"></i></span></h1>
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> General Bio <i class="fa-solid fa-stars"></i></span></h1>
+          <h3 style="color:#ffffff; text-align:center;">Personality Type - Trait/Trait/Trait</h3>
+          <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+          <p style="color:#ffffff; text-align:center;">That girl was hot. She's my cousin! She is? Yes, we're all cousins. Right, you're right. At Honex, we constantly strive to improve every aspect of bee existence. These bees are stress-testing a new helmet technology. What do you think he makes? Not enough. Here we have our latest advancement, the Krelman. What does that do? Catches that little strand of honey that hangs after you pour it. Saves us millions. Can anyone work on the Krelman? Of course. Most bee jobs are small ones. But bees know that every small job, if it's done well, means a lot. But choose carefully because you'll stay in the job you pick for the rest of your life.</p><br>
+          <table style="width: 100%;">
+              
+              
+              <tr><td><b>Likes</b></td><td><b>Dilikes</b></td><td><b>Hobbies</b></td><td><b>Fears</b></td></tr>
+              <tr><td>Like1</td><td>Dislike1</td><td>Hobby1</td><td>Fear1</td></tr>
+              <tr><td>Like2</td><td>Dislike2</td><td>Hobby2</td><td>Fear2</td></tr>
+              <tr><td>Like3</td><td>Dislike3</td><td>Hobby3</td><td>Fear3</td></tr>
+              <tr><td>Like4</td><td>Dislike4</td><td>Hobby4</td><td>Fear4</td></tr>
+              <tr><td>Like5</td><td>Dislike5</td><td>Hobby5</td><td>Fear5</td></tr>
+          </table>
+          <br>
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Favorites <i class="fa-solid fa-stars"></i></span></h1>
+          <table style="width: 100%;">
+              <tr><td><b>Color</b></td><td>color</td></tr>
+              <tr><td><b>Color Combination</b></td><td>color/combo</td></tr>
+              <tr><td><b>Season</b></td><td>season</td></tr>
+              <tr><td><b>Holiday</b></td><td>holiday</td></tr>
+              <tr><td><b>Music Genre</b></td><td>music</td></tr>
+              <tr><td><b>Food</b></td><td>food</td></tr>
+              <tr><td><b>Drink</b></td><td>drink</td></tr>
+              <tr><td><b>Scent</b></td><td>scent</td></tr>
+              <tr><td><b>Flavor</b></td><td>flavor</td></tr>
+              <tr><td><b>School Subject</b></td><td>subject</td></tr>
+              <tr><td><b>Flower</b></td><td>flower</td></tr>
+              <tr><td><b>Animal</b></td><td>animal</td></tr>
+          </table>
+      </div>
+    </div>
+  </div>
+
+    <!--RELATIONSHIPS-->
+    
+  <div class="tab-pane fade" id="reg3">
+    <div class="card p-3" style="background-color:#000000;">
+      <div class="p-3">
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Relationships <i class="fa-solid fa-planet-ringed"></i></span></h1>
+          
+          <!--Person 1-->
+          
+          <div style="float: right; width:305px; overflow:auto; padding-top:10px; padding-left:10px;">
+          <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/102285154_0Vd0JQ6i99Yjk0R.png" style="max-height:400px;">
+          </div>
+          
+          <div style="float: center; overflow:auto; padding-top:10px; padding-left:10px; padding-bottom:10px;">
+        <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> <a href="LinkGoesHere">Name</a> <i class="fa-solid fa-stars"></i></span></h1>
+          <h3 style="color:#ffffff; text-align:center;">Relation</h3>
+          <h3 style="color:#ffffff; text-align:center;"><i>"Quote Goes Here"</i></h3>
+<div style="text-align:center;color:#ffffff;overflow:auto;">
+    <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+        <div class="card-transparent" style="height:200px; overflow: auto;">
+        <p>The same job the rest of your life? I didn't know that. What's the difference. You'll be happy to know that bees, as a species, haven't had one day off in 27 million years. So you'll just work us to death? We'll sure try. Wow! That blew my mind! "What's the difference?" How can you say that? One job forever? That's an insane choice to have to make. I'm relieved. Now we only have to make one decision in life. But, Adam, how could they never told us that? Why would you question anything? We're bees. We're the most perfectly functioning society on Earth. You ever think maybe things work a little too well here? Like what? Give me one example.</p>
+        </div>
+      </div>
+    </div><br>
+    
+    <!--Person 2-->
+    
+              <div style="float: right; width:305px; overflow:auto; padding-top:10px; padding-left:10px;">
+          <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/102285154_0Vd0JQ6i99Yjk0R.png" style="max-height:400px;">
+          </div>
+          
+          <div style="float: center; overflow:auto; padding-top:10px; padding-left:10px; padding-bottom:10px;">
+        <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> <a href="LinkGoesHere">Name</a> <i class="fa-solid fa-stars"></i></span></h1>
+          <h3 style="color:#ffffff; text-align:center;">Relation</h3>
+          <h3 style="color:#ffffff; text-align:center;"><i>"Quote Goes Here"</i></h3>
+<div style="text-align:center;color:#ffffff;overflow:auto;">
+    <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+        <div class="card-transparent" style="height:200px; overflow: auto;">
+        <p>I don't know, but you know what I'm talking about. Please clear the gate. Royal Nectar Force on approach. Wait a second. Check it out. Hey, those are Pollen Jocks! Wow. I've never seen them this close. They know what it's like outside the hive. Yeah, but some don't come back. Hey, Jocks! Hi, Jocks! You guys did great! You're monsters! You're sky freaks! I love it! I love it! I wonder where they were. I don't know. Their day's not planned. Outside the hive, flying who knows where, doing who knows best. Right. Look. That's more pollen than you and I will see in a lifetime. It's just a status symbol. Bees make too much of it.</p>
+        </div>
+      </div>
+    </div><br>
+    
+    <!--Person 3-->
+    
+    <div style="float: right; width:305px; overflow:auto; padding-top:10px; padding-left:10px;">
+          <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/102285154_0Vd0JQ6i99Yjk0R.png" style="max-height:400px;">
+          </div>
+          
+          <div style="float: center; overflow:auto; padding-top:10px; padding-left:10px; padding-bottom:10px;">
+        <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> <a href="LinkGoesHere">Name</a> <i class="fa-solid fa-stars"></i></span></h1>
+          <h3 style="color:#ffffff; text-align:center;">Relation</h3>
+          <h3 style="color:#ffffff; text-align:center;"><i>"Quote Goes Here"</i></h3>
+<div style="text-align:center;color:#ffffff;overflow:auto;">
+    <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+        <div class="card-transparent" style="height:200px; overflow: auto;">
+        <p>Perhaps. Unless you're wearing it and the ladies see you wearing it. Those ladies? Aren't they our cousins too? Distant. Distant. Look at these two. Couple of Hive Harrys. Let's have fun with them. It must be dangerous bring a Pollen Jock. Year. Once a bear pinned me against a mushroom! He had a paw on my throat, and with the other, he was slapping me! Oh, my! I never thought I'd knock him out. What were you doing during this? Trying to alert the authorities. I can autograph that. A little gusty out there today, wasn't it, comrades? Yeah. Gusty. We're hitting a sunflower patch six miles from here tomorrow. Six miles, huh? Barry! A puddle jump for us, but maybe you're not up for it. Maybe I am. You are not! We're going 0900 at J-Gate.</p>
+        </div>
+      </div>
+    </div>
+    
+    <!--Feel free to copy and paste more of these-->
+    
+  </div>
+</div>
+</div>
+
+    <!--BACKSTORY-->
+    
+   <div class="tab-pane fade" id="reg4">
+    <div class="card p-3" style="background-color:#000000;">
+      <div class="p-3">
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Backstory <i class="fa-solid fa-planet-ringed"></i></span></h1>
+          
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Event 1 <i class="fa-solid fa-stars"></i></span></h1>
+          <h3 style="color:#ffffff; text-align:center;"><i>"Quote Goes Here"</i></h3>
+          <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+          <p style="color:#ffffff; text-align:center;">What do you think, buzzy-boy? Are you bee enough? I might be. It all depends on what 0900 means. Hey, Honex! Dad, you surprised me. You decide what you're interested in? Well, there's a lot of choices. But you only get one. Do you ever get bored doing the same job every day? Son, let me tell you about stirring. You grab that stick, and you just move it around, and you stir it around. You get yourself into a rhythm. It's a beautiful thing. You know, Dad. the more I think about it, maybe the honey field just isn't right for me. You were thinking of what, making balloon animals? That's a bad job for a guy with a stinger.<br><br>
+          <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/102288054_ZD9uRpQV3g7p5qK.png" style="max-height:300px;"></p>
+          
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Event 2 <i class="fa-solid fa-stars"></i></span></h1>
+          <h3 style="color:#ffffff; text-align:center;"><i>"Quote Goes Here"</i></h3>
+          <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+          <p style="color:#ffffff; text-align:center;">Janet, your son's not sure he wants to go into honey! Bary, you are so funny sometimes. I'm not trying to be funny. You're not funny! You're going itno honey! Our son, the stirrer! You're gonna be a stirrer? No one's listening to me! Wait till you see the sticks I have. I could say anything right now. I'm gonna get an ant tattoo! Let's open some honey and celebrate! Maybe I'll pierce my thorax. Shave my antenne. Shack up with a grasshopper. Get a gold tooth and call everybody "dawg"! I'm so proud. We're starting work today! Today's the day. Come on! All the good jobs will be gone. Yeah, right.<br><br>
+          <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/102288054_ZD9uRpQV3g7p5qK.png" style="max-height:300px;"></p>
+          
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Event 3 <i class="fa-solid fa-stars"></i></span></h1>
+          <h3 style="color:#ffffff; text-align:center;"><i>"Quote Goes Here"</i></h3>
+          <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+          <p style="color:#ffffff; text-align:center;">Pollen counting, stunt bee, pouring, stirrer, front desk, hair removal... Is it still available? Hang on. Two left! One of them's yours! Congratulations! Step to the side. What'd you get? Picking crud out. Stellar! Wow! Couple of newbies? Yes, sir! Our first day! We are ready! Make your choice. You want to go first? No, you go. Oh, my. What's available? Restroom attendant's open, not for the reason you think. Any chance of getting the Krelman? Sure, you're on. I'm sorry, the Krelman just closed out. Wax monkey's always open. The Krelman opened up again. What happened? A bee died. Makes an opening. See? He's dead. Another dead one.<br><br>
+          <img src="https://f2.toyhou.se/file/f2-toyhou-se/images/102288054_ZD9uRpQV3g7p5qK.png" style="max-height:300px;"></p>
+          
+      </div>
+    </div>
+  </div>
+
+    <!--ABILITIES & TACTICS-->
+    <!--This part is soooooo extra and mainly suited for my own universes and stories (and also I like to imagine them in an RPG lmao), though you can adjust it to however you want (or completely change it altogether; that works too) ^^-->
+    
+  <div class="tab-pane fade" id="reg5">
+    <div class="card p-3" style="background-color:#000000;">
+      <div class="p-3">
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Abilities & Tactics <i class="fa-solid fa-planet-ringed"></i></span></h1>
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Stats <i class="fa-solid fa-stars"></i></span></h1>
+        <div class="card w-100 border-top-0" style="height:1px;"></div>
+          <h2 style="color:#ffffff;"><i class="fa-solid fa-heart"></i> HP</h2>
+                <div class="col-12">
+                    <div class="progress my-2" style="height:25px; background-color:rgba(0,0,0, 0.05)">
+                        <div class="progress bar" style="width:100%; background-color:#ffffff"><span style="color: #000000; text-align:center; font-size:20px;">100</span>
+                        </div>
+                    </div>
+                </div>
+        <p style="color:#ffffff;"><i>Add a comment</i></p>
+        
+        <h2 style="color:#ffffff;"><i class="fa-solid fa-sword"></i> Physical Attack</h2>
+                <div class="col-12">
+                    <div class="progress my-2" style="height:25px; background-color:rgba(0,0,0, 0.05)">
+                        <div class="progress bar" style="width:40%; background-color:#ffffff"><span style="color: #000000; text-align:center; font-size:20px;">40</span>
+                        </div>
+                    </div>
+                </div>
+        <p style="color:#ffffff;"><i>Add a comment</i></p>
+        
+                <h2 style="color:#ffffff;"><i class="fa-solid fa-shield-halved"></i> Physical Defense</h2>
+                <div class="col-12">
+                    <div class="progress my-2" style="height:25px; background-color:rgba(0,0,0, 0.05)">
+                        <div class="progress bar" style="width:15%; background-color:#ffffff"><span style="color: #000000; text-align:center; font-size:20px;">15</span>
+                        </div>
+                    </div>
+                </div>
+        <p style="color:#ffffff;"><i>Add a comment</i></p>
+        
+                <h2 style="color:#ffffff;"><i class="fa-solid fa-eye"></i> Magic Defense</h2>
+                <div class="col-12">
+                    <div class="progress my-2" style="height:25px; background-color:rgba(0,0,0, 0.05)">
+                        <div class="progress bar" style="width:50%;background-color:#ffffff"><span style="color: #000000; text-align:center; font-size:20px;">50</span>
+                        </div>
+                    </div>
+                </div>
+        <p style="color:#ffffff;"><i>Add a comment</i></p>                
+        
+        <h2 style="color:#ffffff;"><i class="fa-solid fa-rabbit-running"></i> Speed</h2>
+                <div class="col-12">
+                    <div class="progress my-2" style="height:25px; background-color:rgba(0,0,0, 0.05)">
+                        <div class="progress bar" style="width:45%;background-color:#ffffff"><span style="color: #000000; text-align:center; font-size:20px;">45</span>
+                        </div>
+                    </div>
+                </div>
+        <p style="color:#ffffff;"><i>Add a comment</i></p>
+        
+        <h2 style="color:#ffffff;"><i class="fa-solid fa-hand-fist"></i> Stamina</h2>
+                <div class="col-12">
+                    <div class="progress my-2" style="height:25px; background-color:rgba(0,0,0, 0.05)">
+                        <div class="progress bar" style="width:60%; background-color:#ffffff"><span style="color: #000000; text-align:center; font-size:20px;">60</span>
+                        </div>
+                    </div>
+                </div>
+        <p style="color:#ffffff;"><i>Add a comment</i></p>
+        
+        <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Magic Elements <i class="fa-solid fa-stars"></i></span></h1>
+        <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+        <div style="text-align:center;"><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="200"></a>
+            
+            <a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="200"></a></div><p></p>
+        
+        <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Weaknesses <i class="fa-solid fa-stars"></i></span></h1>
+        <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+        <p style="text-align:center;">The Elements that are fading in and out indicate a double weakness</p><p></p>
+            <div style="text-align:center;"><span class="fa-fade rounded"><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="200"></a></span>
+            <a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="200"></a></div><br>
+            <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Resistances <i class="fa-solid fa-stars"></i></span></h1>
+        <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+            <p style="text-align:center;">The Elements that are fading in and out indicate a double resistance</p><p></p>
+            <div style="text-align:center;"><span class="fa-fade rounded"><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="200"></a></span>
+            
+            <a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="200"></a></div><br>
+            
+            <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Applicable Abilities <i class="fa-solid fa-stars"></i></span></h1>
+        <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+        <h3 style="text-align: center;">Ability 1</h3>
+        <p style="text-align: center;">Deady. Deadified. Two More dead. Dead from the neck up. Dead from the neck down. That's life! Oh, this is so hard! Heating, cooling, stunt bee, pourer, stirrerm humming, inspector number seven, lint coordinator, stripe supervisor, mite wrangler. Barry, what do you think I should... Barry?</p>
+        <h3 style="text-align: center;">Ability 2</h3>
+        <p style="text-align: center;">Barry! All right, we've got the sunflower patch in quadrant nine... What happened to you? Where are you? I'm going out. Out? Out where? Out there. Oh, no! I have to, before I go to work for the rest of my life. You're gonna die! You're crazy! Hello? Another call coming in.</p>
+        <h3 style="text-align: center;">Ability 3</h3>
+        <p style="text-align: center;">If anyone's feeling brave, there's a Korean deli on 83rd that get their roses today. Hey, guys. Look at that. Isn't that the kid we saw yesterday? Hold it, son. Flight deck's restricted. It's OK, Lou. We're gonna take him up. Really? Feeling lucky, are you? Sign here, here. Just initial that. Thank you.</p><br>
+        
+        <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Learned Tactics <i class="fa-solid fa-stars"></i></span></h1>
+        <div class="card w-100 border-top-0" style="height:1px;"></div><p></p>
+        <h3 style="text-align: center;">Tactic 1<br><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="150"></a></h3>
+        <p style="text-align: center;">OK. You got a rain advisory today, and as you all know, bees cannot fly in rain. So be careful. As always, watch your brooms, hockey sticks, dogs, birds, bears, and bats. Also I got a couple of reports of root beer being poured on us. Murphy's in a home because of it, babbling like a cicada! That's awful. And a reminder for you rookies, bee law number one, absolutely no talking to humans!</p>
+        <h3 style="text-align: center;">Tactic 2<br><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="150"></a></h3>
+        <p style="text-align: center;">All right, launch positions! Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz! Buzz, buzz, buzz, buzz! Black and yellow! Hello! You ready for this, hot shot? Yeah. Yeah, bring it on. Wind, check. Antennae, check. Nectar pack, check. Wings, check. Stinger, check. Scared out of my shorts, check. OK, ladies, let's move it out! Pound these petunias, you striped stem-suckers!</p>
+        <h3 style="text-align: center;">Tactic 3<br><a href="LinkGoesHere" class="image"><img title="ElementGoesHere" src="https://f2.toyhou.se/file/f2-toyhou-se/images/91428817_HJMOIzlgxgirzDS.png" width="150"></a></h3>
+        <p style="text-align: center;">All of you, drain those flowers! Wow! I'm out! I can't believe I'm out! So blue. I feel so fast and free! Box kite! Wow! Flowers! This is Blue Leader. We have roses visual. Bring it around 30 degrees and hold. Roses! 30 degrees roger. Bringing it around. Stand to the side, kid. It's got a bit of a kick. Thst is one nectar collector! Ever see pollination up close? No, sir.</p>
+      </div>
+    </div>
+  </div>
+
+    <!--RULES & NOTES-->
+    
+  <div class="tab-pane fade" id="reg6">
+    <div class="card p-3" style="background-color:#000000;">
+      <div class="p-3">
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Rules & Notes <i class="fa-solid fa-planet-ringed"></i></span></h1>
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Rules <i class="fa-solid fa-stars"></i></span></h1>
+          <table style="width: 100%;">
+              <tr><td><b>Offers</b></td><td>No</td></tr>
+              <tr><td><b>Dreamie Folders</b></td><td>Yes</td></tr>
+              <tr><td><b>Fanart</b></td><td>Yes</td></tr>
+              <tr><td><b>Gore</b></td><td>Unsure</td></tr>
+              <tr><td><b>Drug/Alcohol Use</b></td><td>No</td></tr>
+              <tr><td><b>NSFW/Suggestive Art</b></td><td>Unsure</td></tr>
+              <tr><td><b>Artistic/Non-Sexual Nudity</b></td><td>Unsure</td></tr>
+              <tr><td><b>Romantic Shipping</b></td><td>No</td></tr>
+              <tr><td><b>Platonic Shipping</b></td><td>Only with...</td></tr>
+          </table><br>
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Color Palette <i class="fa-solid fa-stars"></i></span></h1>
+          <h3 style="color:#ffffff; text-align:center;">Adjustable Colors</h3>
+          
+          <!--These colors can be adjusted; these are just the default colors-->
+          
+          <div class="justify-content-center" style="font-size:75px; letter-spacing:6px;"> 
+<i class="fa-solid fa-star tooltipster" style="color: #ffe5ec;" title="Color 1"></i>
+<i class="fa-solid fa-star tooltipster" style="color: #ffc2d1;" title="Color 2"></i> 
+<i class="fa-solid fa-star tooltipster" style="color: #ffb3c6;" title="Color 3"></i> 
+<i class="fa-solid fa-star tooltipster" style="color: #ff8fab;" title="Color 4"></i> 
+<i class="fa-solid fa-star tooltipster" style="color: #fb6f92;" title="Color 5"></i> 
+
+<!--Add more above this line-->
+
+</div><br>
+          <h3 style="color:#ffffff; text-align:center;">Fixed Colors</h3>
+          
+          <!--These colors can not be adjusted-->
+          
+          <div class="justify-content-center" style="font-size:75px; letter-spacing:6px;"> 
+<i class="fa-solid fa-star tooltipster" style="color: #ffe5ec;" title="Color 1"></i>
+<i class="fa-solid fa-star tooltipster" style="color: #ffc2d1;" title="Color 2"></i> 
+<i class="fa-solid fa-star tooltipster" style="color: #ffb3c6;" title="Color 3"></i> 
+<i class="fa-solid fa-star tooltipster" style="color: #ff8fab;" title="Color 4"></i> 
+<i class="fa-solid fa-star tooltipster" style="color: #fb6f92;" title="Color 5"></i> 
+
+<!-- Add more above this line -->
+
+</div><br>
+        <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Design Notes <i class="fa-solid fa-stars"></i></span></h1>
+        <span style="color:#ffffff; text-align:center;">
+        <ul class="fa-ul">
+            <li><i class="fa-solid fa-star tooltipster"></i> I pick up some pollen here, sprinkle it over here.</li>
+            <li><i class="fa-solid fa-star tooltipster"></i> Maybe a dash over there, a pinch on that one.</li>
+            <li><i class="fa-solid fa-star tooltipster"></i> See that? It's a little bit of magic.</li>
+            <li><i class="fa-solid fa-star tooltipster"></i> That's amazing. Why do we do that?</li>
+            <li><i class="fa-solid fa-star tooltipster"></i> That's pollen power. More pollen, more flowers, more nectar, more honey for us.</li>
+        </ul></span>
+        
+        <!--You're more than welcome to insert a reference sheet or other images that may be helpful down below-->
+        
+      </div>
+    </div>
+  </div>
+  
+    <!--IMAGE COLLECTION-->
+    
+  <div class="tab-pane fade" id="reg7">
+    <div class="card p-3" style="background-color:#000000;">
+      <div class="p-3">
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Image Collection <i class="fa-solid fa-planet-ringed"></i></span></h1>
+          
+<!--This is for stuff like blinkies, stamps, gifs/pngs, moodboards, and the like-->
+          
+          <div style="text-align:center;">
+          <img src="https://64.media.tumblr.com/c2950fe8a6a76180637b5258f43ea057/1fb39223b20e4f22-9f/s250x400/271cc544ea8ad7742bae0859a9f25e52c819045b.gifv" width="200px"> 
+          <img src="https://64.media.tumblr.com/07be26f027e322735bd8c4b4862b5372/0ca0ef7554fde89c-8f/s400x600/b217f84cc07481dcc794f93802d85513ed743309.gifv" width="200px"> 
+          <br><br>
+          <img src="https://biscuit.crd.co/assets/images/gallery67/9d1ed608.gif?v=cc1c6dfa" width="100px">
+          <img src="https://64.media.tumblr.com/a27dfb42a8cc7ca62393909052c992fe/tumblr_inline_oitczkjwo61ucrp3u_500.gif" width="100px">
+          <br><br>
+          <img src="https://biscuit.crd.co/assets/images/gallery42/0793405f.gif?v=cc1c6dfa" width="100px">
+          <br><br>
+          
+          <p style="color:#ffffff; text-align:center;">There's a toggle version for is you have images containing things like flashing lights/colors, gore/blood, drugs, etc. Be sure to list potential triggers accordingly ^^</p><p></p>
+          
+          <!--Version with the toggle (for blinkies that may have flashing imagery, blood/gore, and other potentially triggering material)-->
+          
+           <a href="#topcollapse" data-toggle="collapse"><h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Proceed <i class="fa-solid fa-stars"></i></span></h1></a></div>
+          
+  <div id="topcollapse" class="collapse">
+      <div style="text-align:center;">
+      <img src="https://64.media.tumblr.com/c2950fe8a6a76180637b5258f43ea057/1fb39223b20e4f22-9f/s250x400/271cc544ea8ad7742bae0859a9f25e52c819045b.gifv" width="200px"> 
+      <img src="https://64.media.tumblr.com/07be26f027e322735bd8c4b4862b5372/0ca0ef7554fde89c-8f/s400x600/b217f84cc07481dcc794f93802d85513ed743309.gifv" width="200px">
+      <br><br>
+      <img src="https://biscuit.crd.co/assets/images/gallery67/9d1ed608.gif?v=cc1c6dfa" width="100px">
+      <img src="https://64.media.tumblr.com/a27dfb42a8cc7ca62393909052c992fe/tumblr_inline_oitczkjwo61ucrp3u_500.gif" width="100px">
+      <br><br>
+      <img src="https://biscuit.crd.co/assets/images/gallery42/0793405f.gif?v=cc1c6dfa" width="100px">
+      <br><br>
+      </div>
+</div>
+      </div>
+    </div>
+  </div>
+  
+  <!--Miscellaneous-->
+  
+    <div class="tab-pane fade" id="reg8">
+    <div class="card p-3" style="background-color:#000000;">
+      <div class="p-3">
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Miscellaneous <i class="fa-solid fa-planet-ringed"></i></span></h1>
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Fun Facts <i class="fa-solid fa-stars"></i></span></h1>
+          <span style="color:#ffffff; text-align:center;">
+        <ul class="fa-ul">
+            <li><i class="fa-solid fa-star tooltipster"></i> Cool. I'm picking up a lot of bright yellow. Could be daisies. Don't we need those?</li>
+            <li><i class="fa-solid fa-star tooltipster"></i> Copy that visual. Wait. One of these flowers seems to be on the move.</li>
+            <li><i class="fa-solid fa-star tooltipster"></i> Say again? You're reporting a moving flower? Affirmative.</li>
+            <li><i class="fa-solid fa-star tooltipster"></i> That was on the line! This is the coolest. What is it?</li>
+            <li><i class="fa-solid fa-star tooltipster"></i> I don't know, but I'm loving this color. It smells good. Not like a flower, but I like it.</li>
+        </ul></span><p></p>
+        <h1 style="color:#ffffff; text-align:center;"><span style="font-size:25px;"><i class="fa-solid fa-stars"></i> Stuff Unrelated To Canon <i class="fa-solid fa-stars"></i></span></h1>
+        
+        <!--This is for stuff like what TV shows/Video Games/Books they like, what Pokemon they would have in their team if you're into that, What playable character/class they would choose in a game, or pretty much anything else unrelated to canon.-->
+        
+        <h3 style="color:#ffffff; text-align:center;">Pokemon Team</h3>
+        <div style="text-align:center;">
+            <!--You can swap the code out for something else if you're not that big into Pokemon. I just whipped up a small lil thing because I enjoy Pokemon and I know quite a few others who do too ^^-->
+            <table style="width: 100%;">
+              <tr>
+                  <td><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/57614300_hZ7tZJv4aw5QeO4.png" width="100px"><br><b>Name</b><br><b>Species</b></td>
+                  <td><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/57614300_hZ7tZJv4aw5QeO4.png" width="100px"><br><b>Name</b><br><b>Species</b></td>
+                  <td><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/57614300_hZ7tZJv4aw5QeO4.png" width="100px"><br><b>Name</b><br><b>Species</b></td>
+                  </tr>
+                  <tr>
+                  <td><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/57614300_hZ7tZJv4aw5QeO4.png" width="100px"><br><b>Name</b><br><b>Species</b></td>
+                  <td><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/57614300_hZ7tZJv4aw5QeO4.png" width="100px"><br><b>Name</b><br><b>Species</b></td>
+                  <td><img src="https://f2.toyhou.se/file/f2-toyhou-se/images/57614300_hZ7tZJv4aw5QeO4.png" width="100px"><br><b>Name</b><br><b>Species</b></td>
+              </tr>
+              </table>
+              <br>
+              <h3 style="color:#ffffff; text-align:center;">Other Media</h3>
+              <table style="width: 100%;">
+              <tr><td><b>Media1</b></td><td>media1</td></tr>
+              <tr><td><b>Media2</b></td><td>media2</td></tr>
+              <tr><td><b>Media3</b></td><td>media3</td></tr>
+              <tr><td><b>Media4</b></td><td>media4</td></tr>
+              <tr><td><b>Media5</b></td><td>media5</td></tr>
+          </table>
+              </div>
+              <br>
+              
+        <!--Ribbon Collection (Code by MinnieLove; link is in the credits section)-->
+        
+        <div class="card-block m-1 p-0 no-gutters" style="background: rgb(255,251,245); background: linear-gradient(360deg, #ffffff 0%, #ffffff 100%); border-radius: 10px; border-style: solid; border-width: 3px; color: #000000;">
+    
+    <div style="background-image: url(https://f2.toyhou.se/file/f2-toyhou-se/images/38701585_Ql14QqCc555YI0j.gif); background-size: 15%;border-top-right-radius: 10px; border-top-left-radius: 10px">
+
+        <div class="card-block justify-content-center p-0 pt-2" style="font-size: 250%; font-weight: 500; letter-spacing:10px; background-color: #ffffff; border-top-right-radius: 10px; border-top-left-radius: 10px">
+         Ribbons
+        </div>
+
+        <div class="card-block p-0" style="height: 2px; background: rgb(255,120,136); background: linear-gradient(90deg, #ffffff 0%, #ffffff 25%, #ffffff 75%, #ffffff 100%);"></div>
+
+        <div class="d-flex row no-gutters p-1 m-2 justify-content-center">
+
+            <div class="card-block col-md-1 col-4 p-1 m-1" style="background: #000000; border-radius: 5px">
+                <div class="justify-content-center p-1">
+                    <span data-toggle="tooltip" title="Ribbon title
+Ribbon description.">
+                        <img src="IMG_LINK">
+                    </span>
+                </div>
+            </div>
+
+            <div class="card-block col-md-1 col-4 p-1 m-1" style="background: #000000; border-radius: 5px">
+                <div class="justify-content-center p-1">
+                    <span data-toggle="tooltip" title="Ribbon title
+Ribbon description.">
+                        <img src="IMG_LINK">
+                    </span>
+                </div>
+            </div>
+
+            <div class="card-block col-md-1 col-4 p-1 m-1" style="background: #000000; border-radius: 5px">
+                <div class="justify-content-center p-1">
+                    <span data-toggle="tooltip" title="Ribbon title
+Ribbon description.">
+                        <img src="IMG_LINK">
+                    </span>
+                </div>
+            </div>
+      
+            <div class="card-block col-md-1 col-4 p-1 m-1" style="background: #000000; border-radius: 5px">
+                <div class="justify-content-center p-1">
+                    <span data-toggle="tooltip" title="Ribbon title
+Ribbon description.">
+                        <img src="IMG_LINK">
+                    </span>
+                </div>
+            </div>
+
+            <div class="card-block col-md-1 col-4 p-1 m-1" style="background: #000000; border-radius: 5px">
+                <div class="justify-content-center p-1">
+                    <span data-toggle="tooltip" title="Ribbon title
+Ribbon description.">
+                        <img src="IMG_LINK">
+                    </span>
+                </div>
+            </div>
+
+            <div class="card-block col-md-1 col-4 p-1 m-1" style="background: #000000; border-radius: 5px">
+                <div class="justify-content-center p-1">
+                    <span data-toggle="tooltip" title="Ribbon title
+Ribbon description.">
+                        <img src="IMG_LINK">
+                    </span>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</div>
+
+      </div>
+    </div>
+  </div>
+  
+  <!--CREDITS-->
+    <!--If you decide to add any more codes/snippets, be sure to add the credits and links here! Thanks! ^^-->
+    
+    <div class="tab-pane fade" id="reg9">
+    <div class="card p-3" style="background-color:#000000;">
+      <div class="p-3">
+          <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Credits <i class="fa-solid fa-planet-ringed"></i></span></h1>
+          <span style="color: #ffffff; font-size:30px;">
+          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;">
+              <a href="https://toyhou.se/Crossf1reCreat1ons"><i class="fa-solid fa-stars"></i> Code by Crossf1reCreat1ons</a>
+          </div>
+          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;">
+              <a href="https://toyhou.se/Poisoned_Whiskers"><i class="fa-solid fa-moon-stars"></i> Inspired by Poisoned_Whiskers and his character code</a><a href="https://toyhou.se/2400881.quill-whiskers">(Example)</a>
+          </div>
+          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><a href="https://toyhou.se/Elithian/characters/folder:881832"><i class="fa-solid fa-sparkles"></i> With help from Elithian's Coding Resources</a>
+          </div>
+          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><a href="https://toyhou.se/19721076.f2u-small-palette-code"><i class="fa-solid fa-comet"></i> Color Palette Code Frankensteined from SleepyKorka</a>
+          </div>
+          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><a href="https://toyhou.se/33687429.f2u-pride-hearts"><i class="fa-solid fa-star-shooting"></i> Pride Hearts by Crossf1reCreat1ons</a>
+          </div>
+          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><i class="fa-solid fa-sparkle"></i> Pokemon Sprites from Pokemon Scarlet & Violet</div>
+          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><a href="https://toyhou.se/20137423.-f2u-pink-ribbon-display"><i class="fa-solid fa-sun-cloud"></i> Ribbon Display Frankensteined from MinnieLove</a>
+          </div>
+          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><a href="https://toyhou.se/20187371.ribbon-masterlist"><i class="fa-solid fa-sun"></i> Ribbon Masterlist can be found here</a>
+          </div>
+          </span>
+      </div>
+    </div>
+  </div>
+  
+</div>
+</div>
+</div>
+</body>
+</html>
