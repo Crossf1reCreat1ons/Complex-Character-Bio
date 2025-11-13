@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <body>
-    <!--Hello there, it's Crossfire/Gloves! Thanks for taking the time to edit this code (I know it's a lot to take in, but still ^^). This is somewhat of a remake to the one I made over a year ago (I added in more details and made the layout look cleaner). This is best viewed on desktop (some elements may look askew on mobile). Make sure you have WYSIWYG turned off before editing the code!-->
+    <!--Hello there, it's CYBER/Gloves! Thanks for taking the time to edit this code (I know it's a lot to take in, but still ^^). This is somewhat of a remake to the one I made over a year ago (I added in more details and made the layout look cleaner). This is best viewed on desktop (some elements may look askew on mobile). Make sure you have WYSIWYG turned off before editing the code!-->
     <!--You can change the colors of the background, text, and buttons to whatever you want, as well as the text font (they all use six digit hex codes). If you want to change them, I will put them below (just double click, press Ctrl + F, then click the + sign, type in a new hex code, then click "All" that's next to "Replace" and it will replace the previous hex code)-->
     
     <!--Background: #000000
@@ -604,7 +604,7 @@ Ribbon description.">
           <h1 style="color:#ffffff; text-align:center;"><span style="font-size:2rem;"><i class="fa-solid fa-planet-ringed"></i> Credits <i class="fa-solid fa-planet-ringed"></i></span></h1>
           <span style="color: #ffffff; font-size:30px;">
           <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;">
-              <a href="https://toyhou.se/Crossf1reCreat1ons"><i class="fa-solid fa-stars"></i> Code by Crossf1reCreat1ons</a>
+              <a href="https://toyhou.se/CYBERSPACE_2007"><i class="fa-solid fa-stars"></i> Code by CYBERSPACE_2007</a>
           </div>
           <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;">
               <a href="https://toyhou.se/Poisoned_Whiskers"><i class="fa-solid fa-moon-stars"></i> Inspired by Poisoned_Whiskers and his character code</a><a href="https://toyhou.se/2400881.quill-whiskers">(Example)</a>
@@ -613,7 +613,7 @@ Ribbon description.">
           </div>
           <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><a href="https://toyhou.se/19721076.f2u-small-palette-code"><i class="fa-solid fa-comet"></i> Color Palette Code Frankensteined from SleepyKorka</a>
           </div>
-          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><a href="https://toyhou.se/33687429.f2u-pride-hearts"><i class="fa-solid fa-star-shooting"></i> Pride Hearts by Crossf1reCreat1ons</a>
+          <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><a href="https://toyhou.se/33687429.f2u-pride-hearts"><i class="fa-solid fa-star-shooting"></i> Pride Hearts by CYBERSPACE_2007</a>
           </div>
           <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><i class="fa-solid fa-sparkle"></i> Pokemon Sprites from Pokemon Scarlet & Violet</div>
           <div style="padding-top: 12px; padding-bottom: 12px;padding-left: 12px;padding-right: 12px; border-width:2px; border-color:#ffffff;border-style: solid;"><a href="https://toyhou.se/20137423.-f2u-pink-ribbon-display"><i class="fa-solid fa-sun-cloud"></i> Ribbon Display Frankensteined from MinnieLove</a>
@@ -629,4 +629,5 @@ Ribbon description.">
 </div>
 </div>
 </body>
+
 </html>
